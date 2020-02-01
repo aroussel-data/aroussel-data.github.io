@@ -1,7 +1,7 @@
 ### Alex Roussel
 - Email: alexandredrr14@gmail.com 
-- Linkedin: au.linkedin.com/in/alex-roussel
-- Codewars account: https://www.codewars.com/users/aroussel-fenix
+- Linkedin: [alex-roussel](au.linkedin.com/in/alex-roussel)
+- Codewars account: [aroussel-data](https://www.codewars.com/users/aroussel-fenix)
 - Twitter: https://twitter.com/ArousselDDA
 
 ### A bit about me
