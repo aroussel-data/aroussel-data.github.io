@@ -1,5 +1,5 @@
 ### Alex Roussel
-[Email](alexandredrr14@gmail.com) 
+[Email\n](alexandredrr14@gmail.com) 
 [LinkedIn](au.linkedin.com/in/alex-roussel)
 [Codewars](https://www.codewars.com/users/aroussel-fenix)
 [Twitter](https://twitter.com/ArousselDDA)
