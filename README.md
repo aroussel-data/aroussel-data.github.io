@@ -14,3 +14,4 @@ I've spent the last two years living and working in Uganda for a solar energy st
 
 ### Some of the projects I'm working on
 - https://aroussel-data.github.io/un_data_aggregator/
+- https://aroussel-data.github.io/c_dev/
