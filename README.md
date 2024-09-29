@@ -1,5 +1,5 @@
 ### Alex Roussel
-[Email](alexandredrr14@gmail.com)
+[Email](mailto:alexandredrr14@gmail.com)
 
 [LinkedIn](au.linkedin.com/in/alex-roussel)
 
