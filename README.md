@@ -1,7 +1,7 @@
 ### Alex Roussel
 [Email](mailto:alexandredrr14@gmail.com)
 
-[LinkedIn](au.linkedin.com/in/alex-roussel)
+[LinkedIn](https://www.linkedin.com/in/alex-roussel/)
 
 ### A bit about me
 I've spent the last four years living and working in France, building a range of cybersecurity tools for domains ranging from forensic and malware analysis, to data diodes, and collection platforms. I'm passionate about using my skills to generate impact for an organisation, contributing to and learning from those I work with. I love to build and repair, both inside and outside of work, whether it be my own software engineering projects, restoring old smartphones and PCs, or renovating my house.
